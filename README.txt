@@ -76,7 +76,7 @@ to communicate and express their opinions with visual clarity.
 
 We encourage you to share files in formats that everyone can use. 
 
-SVG - for vectors graphics
+SVG - for vector graphics
 PNG - for web images with transparency
 JPG - high quality photos when available
 PDF - for Illustrator files for compatibility with older versions of Illustrator
