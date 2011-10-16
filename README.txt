@@ -9,6 +9,20 @@ This version also has the latest version of the graphics.
 
 ________________________________________________________________________________
 
+### How to Use ###
+
+* Any folder in 'designs' can be shared through Dropbox with specific collaborators.
+
+* In 'designs', there are sample folders, which are preferred guidelines to help
+  keep the contributions organized while still making it easy to work.
+
+  Simply duplicate a folder and rename appropriate files.
+  
+  The file formats are there to help with saving your files in the most shareable format.
+
+
+________________________________________________________________________________
+
 ### Git Repository ###
 
 https://github.com/chachasikes/occupydesign
