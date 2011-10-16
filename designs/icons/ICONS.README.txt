@@ -1,0 +1,12 @@
+We are syncing a public gallery of icons with the ICONS.csv folder on iconathon.org
+
+
+
+________________________________________________________________________________
+
+### Notes ###
+
+Status Labels
+* Not Started
+* Has Sketches
+* Being Vectorized
