@@ -11,6 +11,8 @@ ________________________________________________________________________________
 
 ### Git Repository ###
 
+https://github.com/chachasikes/occupydesign
+
 PREFERRED: This is a git repository. 
 This is a tool for tracking changes, and also publishing files
 and support materials.
@@ -33,10 +35,23 @@ ________________________________________________________________________________
 
 ## Dropbox ##
 
-We have a public dropbox for working files. 
+We have a public dropbox for working files.
 This is mainly to support real-time collaboration.
 
-[Link]
+** 2GB limit! **
+
+* The whole git repository is in the Dropbox Public folder.
+
+
+The git repo is included in the dropbox public folder.
+The Dropbox folder is mainly for design assets (website docroot would preferably be another git repo.)
+
+The idea is that one can checkout the git repo, or download the zip file from github. 
+Anyone in a collaboration setting can be added to dropbox to work on the same folder
+in situations where people do not know how to use git.
+
+Anyone who knows git would be able to commit changes if they are added 
+to the repo if they have a github account. This will help with managing versions.
 
 ________________________________________________________________________________
 
