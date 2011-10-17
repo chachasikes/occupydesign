@@ -1,0 +1,36 @@
+## Toilet ##
+This is a design for a universal symbol for XXXXX.
+
+This folder is organized for collaboration.
+
+
+________________________________________________________________________________
+
+### Credits and Contact ###
+name, twitter or other public contact information, note
+
+Insert Credits here.
+
+________________________________________________________________________________
+
+### Organization ###
+
+* research - information about what this graphic means
+* sketches - photos of sketches from brainstorming sessions
+* vectors - design files (svg, pdf)
+* final - the final version
+
+________________________________________________________________________________
+
+### Links ###
+
+Insert URLs here if necessary.
+
+________________________________________________________________________________
+
+### Comments ###
+
+Insert any notes or comments here as needed.
+
+
+
