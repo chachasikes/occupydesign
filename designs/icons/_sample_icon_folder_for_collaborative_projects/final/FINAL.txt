@@ -1,6 +1,11 @@
 ## Final ##
 The final version of this graphic.
 * Please save in SVG and PDF for vector images.
+* Please make sure files names are web friendly.
+
+** all lowercase
+** underscores where spaces should be
+** under 32 characters
 
 ________________________________________________________________________________
 

@@ -1,4 +1,4 @@
-## Sample Icon ##
+## Icon ##
 This is a design for a universal symbol for XXXXX.
 
 This folder is organized for collaboration.
