@@ -1,4 +1,4 @@
-i## Final ##
+## Final ##
 The final version of this graphic.
 * Please save in SVG and PDF for vector images.
 
